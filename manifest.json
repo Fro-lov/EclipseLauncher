@@ -1,1 +1,521 @@
-
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": "data.000",
+      "size": 1073741820,
+      "hash": "148753fc4005dbb2c9715a473867ef9de15c7772a32efec00d65bdf8803e18cb",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.000.zip"
+    },
+    {
+      "path": "data.001",
+      "size": 1073741807,
+      "hash": "7c0ac7edb4c7c18a45109dd5733766bc3ac9dd9ab9e042564f045833f734d72c",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.001.zip"
+    },
+    {
+      "path": "data.002",
+      "size": 1073741801,
+      "hash": "4d3eab1b8ac94bdc10983a4bdc5e7b07961560c14202f4e63e72a65168faf532",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.002.zip"
+    },
+    {
+      "path": "data.003",
+      "size": 1073741755,
+      "hash": "05d754eef723892b935a96cbc44d1558bfc7c6c0b1fadd724345f15eb28bd458",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.003.zip"
+    },
+    {
+      "path": "data.004",
+      "size": 1073741824,
+      "hash": "82c130746a9e57531dcbd6ab15041bfe76f44e962a697d7f01c2b5ad5c0729f2",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.004.zip"
+    },
+    {
+      "path": "data.005",
+      "size": 1073741824,
+      "hash": "513ca497e85c3bc23ef3b0ab0637c40ad31afd6fd79693c154e3c767e464512f",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.005.zip"
+    },
+    {
+      "path": "data.006",
+      "size": 1073741816,
+      "hash": "a5f86d1afb186a7aaf0549c5a5768f264aa9ca09f0c9ab7778a51e885b93277c",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.006.zip"
+    },
+    {
+      "path": "data.007",
+      "size": 1073741823,
+      "hash": "43be359762d4b4422a7dc775baeb117b23db692f5fc0136720f31f60e3d2033a",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.007.zip"
+    },
+    {
+      "path": "data.008",
+      "size": 1073741810,
+      "hash": "d2ea0ed3d2612106fdf39e7aeefd4d94cee61484a511df5c2a8c5399db696f4a",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.008.zip"
+    },
+    {
+      "path": "data.009",
+      "size": 1073741824,
+      "hash": "0f7d08a83ad82357656de6aa1ebc89f07138bfc66ddf4b945c1850a9d5b166c1",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.009.zip"
+    },
+    {
+      "path": "data.010",
+      "size": 1073741814,
+      "hash": "33f7d32cd8bcb414bfd6ee39d7e6370cd62540335686a7973fec633694a35259",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.010.zip"
+    },
+    {
+      "path": "data.011",
+      "size": 1073741764,
+      "hash": "4ec80e8445afa7b9039e318f01b74d31de902a941a5a5013fc3fc734848cac2f",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.011.zip"
+    },
+    {
+      "path": "data.012",
+      "size": 1073741815,
+      "hash": "94e5af27954771bf13cfe14c222ccc3c40001d1aec36563666b48a65d0fbdb0b",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.012.zip"
+    },
+    {
+      "path": "data.013",
+      "size": 1073741820,
+      "hash": "180b8668fee04f4eb156ac41e7bf39d459ba1d1ec054e0a687957eee03610441",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.013.zip"
+    },
+    {
+      "path": "data.014",
+      "size": 1073741813,
+      "hash": "621df775c6071f694a9c3ec6e00645c0aa028e489e267379c6d39dbb5309e376",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.014.zip"
+    },
+    {
+      "path": "data.015",
+      "size": 1073741823,
+      "hash": "edfcefe816b2a83a931d7d53ce0d84af7cf80b03cd5732b9428b5420d7b24c5a",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.015.zip"
+    },
+    {
+      "path": "data.016",
+      "size": 1073741806,
+      "hash": "0cff85f7f501891f44e5a797de34adc194066183e17c6cf228b96359564ecd2a",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.016.zip"
+    },
+    {
+      "path": "data.017",
+      "size": 1073741824,
+      "hash": "3ef617a18e81c959a420cf7e211f31918fb78c2d71c549538fea2f36b57455a7",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.017.zip"
+    },
+    {
+      "path": "data.018",
+      "size": 1073741817,
+      "hash": "0c9ba0a1e585586f75c6c94f39ca0a838b0735bfcef365e1c347281b1cea9e3c",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.018.zip"
+    },
+    {
+      "path": "data.019",
+      "size": 1073741815,
+      "hash": "5bd2d1a721ac13adb59c89cfcd8dc8726b79628213357cd0d92970f845a094a1",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.019.zip"
+    },
+    {
+      "path": "data.020",
+      "size": 1073741796,
+      "hash": "12ebc3e6e719223f8d58b910bf89e05dd670382171136cc55a57b1d3c1329ea2",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.020.zip"
+    },
+    {
+      "path": "data.021",
+      "size": 1073741770,
+      "hash": "dfbf7659d9544b1de6c93e80f1fccbb137fb4e333d152268070df5607a435dc6",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.021.zip"
+    },
+    {
+      "path": "data.022",
+      "size": 1073741779,
+      "hash": "97f7c11f378b6110e2d434132ca64bc81e0a5b967ca98cf43f6605d3cbee16e8",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.022.zip"
+    },
+    {
+      "path": "data.023",
+      "size": 1073741815,
+      "hash": "406bd0cec8a4e3323122f277d3df5dfa5354e55a20f66355e7ce5d230c0aca08",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.023.zip"
+    },
+    {
+      "path": "data.024",
+      "size": 1073741753,
+      "hash": "6789594cac5e9148cdebb377ee973e0b7244217850c38e8ca8ce01ee4b46d8f9",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.024.zip"
+    },
+    {
+      "path": "data.025",
+      "size": 1073741816,
+      "hash": "03db8cb8b8a82bd1eec42cb5a31394c684c5680c6562ae56c8b0d985c3bb51a3",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.025.zip"
+    },
+    {
+      "path": "data.026",
+      "size": 1073741818,
+      "hash": "d8067f00ff80194eceb45cc45ad05f208eda499c41f8277e93ca0858cdb2eedf",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.026.zip"
+    },
+    {
+      "path": "data.027",
+      "size": 1073741806,
+      "hash": "3ce9315e4bcc4208d971196aa67dd1c5800ddd56284e44946cd6c8c1b6a02620",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.027.zip"
+    },
+    {
+      "path": "data.028",
+      "size": 1073741814,
+      "hash": "ca3e7969dd9ce91332f5dc8acb4c38314ae915f3fd2b8dc64549936b1d305fe2",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.028.zip"
+    },
+    {
+      "path": "data.029",
+      "size": 1073741749,
+      "hash": "2e90d58f67e2a6325077b4807ff886f13c823350eee127d4d560fa065a45dcb5",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.029.zip"
+    },
+    {
+      "path": "data.030",
+      "size": 1073741819,
+      "hash": "bbc95d0ada12cee14fd7150fb1b2f2a48203e8ecde21411102d6cdda915f37bc",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.030.zip"
+    },
+    {
+      "path": "data.031",
+      "size": 1073741819,
+      "hash": "f2e554c55bb5a522d98fc3b588b61ec9d6e4fc52ce3373a5c674b5abe61b04d4",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.031.zip"
+    },
+    {
+      "path": "data.032",
+      "size": 1073741813,
+      "hash": "d0881413cb3033ed8ac5141676629b9418857e132772ec75177558046d3ce2c7",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.032.zip"
+    },
+    {
+      "path": "data.033",
+      "size": 1073741801,
+      "hash": "40c3004cf1fe08d39f67a7ffc9c52616c6025357638dc052525f44a19db67db9",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.033.zip"
+    },
+    {
+      "path": "data.034",
+      "size": 1073741767,
+      "hash": "e3caef0d9d1ba3ce4f98c524e41eeb8665635635f2cf1a0033e9cbec23dccaa8",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.034.zip"
+    },
+    {
+      "path": "data.035",
+      "size": 1073741789,
+      "hash": "3ce49392528a4b4a86b9502401a4330223baecb682a123f4fcd6e7186b8deded",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.035.zip"
+    },
+    {
+      "path": "data.036",
+      "size": 1073741793,
+      "hash": "138b549f41763f36768ec5543f018f162177828c4706827ede6550376e71b6bc",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.036.zip"
+    },
+    {
+      "path": "data.037",
+      "size": 1073741775,
+      "hash": "69793b9d5f35cc215ffc87a77203e0dcae3b110d15b5e0a57f61ff81656f04d2",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.037.zip"
+    },
+    {
+      "path": "data.038",
+      "size": 1073741822,
+      "hash": "973368a7876b9915f92049af04197cec7887bd65773872827d848031b4f2c76f",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.038.zip"
+    },
+    {
+      "path": "data.039",
+      "size": 1073741765,
+      "hash": "50f4ceffca73c72315f62eb1ccec5733e363631426cf6d3b98509cf7a2c9c0a0",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.039.zip"
+    },
+    {
+      "path": "data.040",
+      "size": 1073741824,
+      "hash": "ee5d6f0c86e70c4b7ba47e624fa906c0fdab36a50940c93ec2db1ceb40e1f9ec",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.040.zip"
+    },
+    {
+      "path": "data.041",
+      "size": 1073741762,
+      "hash": "827c0b6e5794da517062aa37b9882bd617441ec17d732fa1f09d4a9b0c69b9d0",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.041.zip"
+    },
+    {
+      "path": "data.042",
+      "size": 1073741763,
+      "hash": "0d98a60ca2939de88f4d619cc6a56e9a1c1c53265e641d3bb51cac7b803dab07",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.042.zip"
+    },
+    {
+      "path": "data.043",
+      "size": 1073741780,
+      "hash": "5b0177d1aaee948d2c31af4c1bb67634a898fa4b7b6cae6348406174c65540b7",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.043.zip"
+    },
+    {
+      "path": "data.044",
+      "size": 1073741812,
+      "hash": "977e9e265bb44aa57a42db489bec88d47b36ce0446e2893a586b739852b96765",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.044.zip"
+    },
+    {
+      "path": "data.045",
+      "size": 1073741824,
+      "hash": "58dfcb56b71dc598e88600d568793b7508bc2c1358eb1f7d567dfd7e7581f6ff",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.045.zip"
+    },
+    {
+      "path": "data.046",
+      "size": 1073741819,
+      "hash": "7f594a92c65d6f8abcae890e6d328082f61ed01a03748d1e0377c4704a377d0a",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.046.zip"
+    },
+    {
+      "path": "data.047",
+      "size": 1073741767,
+      "hash": "81ee52317ad03f5271c9cd014e9435246d577bfa5fa1a83f29d9c7a1702d83b6",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.047.zip"
+    },
+    {
+      "path": "data.048",
+      "size": 1073741817,
+      "hash": "cfc8001d2825b054779cf1d00038c2f98edb1a1fd9baeec109c5476ab3ab7a96",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.048.zip"
+    },
+    {
+      "path": "data.049",
+      "size": 1073741801,
+      "hash": "5996d61f2ac6081d8b580204bbec20356de83315877e544dd0c34b09ff143b04",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.049.zip"
+    },
+    {
+      "path": "data.050",
+      "size": 1073741824,
+      "hash": "923a252fd326654ce877921face98731d40b7a653d3d09b9ae2a8ae8ef49ca23",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.050.zip"
+    },
+    {
+      "path": "data.051",
+      "size": 1073741763,
+      "hash": "6b1a2d336062f16b1c552f118cbadeec7ce89069a7720a6d2f4c307616822519",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.051.zip"
+    },
+    {
+      "path": "data.052",
+      "size": 1073741801,
+      "hash": "1c299a10cd2f7ad1e7469fef1ba4e33dff669a63b6d53538e0c56fe52d584595",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.052.zip"
+    },
+    {
+      "path": "data.053",
+      "size": 1073741747,
+      "hash": "97c7b8b8b19f8d292df1ad28f29a10123e35bfe776948c0173267c4d607f8241",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.053.zip"
+    },
+    {
+      "path": "data.054",
+      "size": 1073741781,
+      "hash": "8254820364ae7392f221a684acd302af3a3f23f9c99acabaaefd6ccd037bbf44",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.054.zip"
+    },
+    {
+      "path": "data.055",
+      "size": 1073741737,
+      "hash": "0907655a0e7f974c61aa96c991478a73a7958ec27e8ed181618b0d4a7c65b540",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.055.zip"
+    },
+    {
+      "path": "data.056",
+      "size": 1073741778,
+      "hash": "f24da02401b7b301c42b7bdf84c78c7c5306d58de715a81a2e87ade1097aca87",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.056.zip"
+    },
+    {
+      "path": "data.057",
+      "size": 1073741737,
+      "hash": "4fd3c6c3031bd96d9b5eb12a91fe1bf259c7ed6a583207827cb15b510b8284f2",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.057.zip"
+    },
+    {
+      "path": "data.058",
+      "size": 1073741812,
+      "hash": "d45694a700c056fb89fa27b79ec1dc67ded81567870b5c6f86de05992dfd92b8",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.058.zip"
+    },
+    {
+      "path": "data.059",
+      "size": 1073741790,
+      "hash": "522fe057454acdd7068fd7112ca436eb53a60d64b7336a24e7347679302fcdbb",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.059.zip"
+    },
+    {
+      "path": "data.060",
+      "size": 1073741821,
+      "hash": "3cdd9df6583723426afd0a3eea0bfdfeb8031e79c33e8773f2199f7455959fed",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.060.zip"
+    },
+    {
+      "path": "data.061",
+      "size": 1073741805,
+      "hash": "b3169a6eefd55d80658c4c3443a9a8055658589904b133a2764cc0f3fd4bc005",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.061.zip"
+    },
+    {
+      "path": "data.062",
+      "size": 1073741813,
+      "hash": "ca580289ecbdb3be7183f236590c543c98fc7fc52cbee3c93738ee24f1b03af3",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.062.zip"
+    },
+    {
+      "path": "data.063",
+      "size": 1073741780,
+      "hash": "44c56353a39c657719788bbd193229a867e4c401d453b7ef2d76abb8ac0675f5",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.063.zip"
+    },
+    {
+      "path": "data.064",
+      "size": 1073741809,
+      "hash": "a554a4b1ffe00cf041ba532dffd5fae6c0debc981f8971b0a495010ab8e5deee",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.064.zip"
+    },
+    {
+      "path": "data.065",
+      "size": 1073741804,
+      "hash": "9222719b8d711310110dc96ebb2c6c5bd3493803328c6d6d7ccd4f772a7a5454",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.065.zip"
+    },
+    {
+      "path": "data.066",
+      "size": 1073741800,
+      "hash": "02eac71d60b93addfed54648c753c44121adba5e14be96a5cc0b2f0dc9febb2b",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.066.zip"
+    },
+    {
+      "path": "data.067",
+      "size": 1073741813,
+      "hash": "6fe353bb20f4e34801d0b408b96748fa03e66e55127642bd308cee470d8581e4",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.067.zip"
+    },
+    {
+      "path": "data.068",
+      "size": 1073741824,
+      "hash": "590e30883a342ad024022952838a2798ae56922c15802f29ee3ddb9f2a46e726",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.068.zip"
+    },
+    {
+      "path": "data.069",
+      "size": 1073741775,
+      "hash": "5fa3cdba6297bc59f46f8c0d026a1a9744aa3a62936fc36e40e260e99245ecb9",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.069.zip"
+    },
+    {
+      "path": "data.070",
+      "size": 1073741774,
+      "hash": "0377b074a7509fc3f6549f4d20567ca27dc7e7d0b1ed731b43c8ec5b570cfd17",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.070.zip"
+    },
+    {
+      "path": "data.071",
+      "size": 1073741796,
+      "hash": "32bd4a5a75875f70a948a75ec8b18d360069e59a079e4d60c2c162ee3e495595",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.071.zip"
+    },
+    {
+      "path": "data.072",
+      "size": 1073741818,
+      "hash": "0932164fca8476289d984a7d86eca3e33dd391f42a493527b60ee87c37118058",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.072.zip"
+    },
+    {
+      "path": "data.073",
+      "size": 1073741801,
+      "hash": "23d15cbb066ec1bdd69b29ef76561dbeff5604aa6af5089a6fcca726f87872b3",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.073.zip"
+    },
+    {
+      "path": "data.074",
+      "size": 1073741823,
+      "hash": "735880304a8ac1045cc70447fd6bd0a0f8f163298c344c12914f39692c5d835a",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.074.zip"
+    },
+    {
+      "path": "data.075",
+      "size": 1073741812,
+      "hash": "afd4848a227ee242d5394467cf6ab1426c29dd4ee6d855469c5915dcffafa165",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.075.zip"
+    },
+    {
+      "path": "data.076",
+      "size": 1073741748,
+      "hash": "0e78e4aca46ea58d9bb76d090b3ea45c6080d1c7038dfae6a3ac0d0e0fc97942",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.076.zip"
+    },
+    {
+      "path": "data.077",
+      "size": 1073741792,
+      "hash": "e85154ede22e12982879008ebc5d75739a338c35355244bc30bc4151e41b5cc7",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.077.zip"
+    },
+    {
+      "path": "data.078",
+      "size": 1073741824,
+      "hash": "e13694a97a1d29026506aebfea3f6e28dc14cd02ca7f9173c43c5e3eb687dedf",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.078.zip"
+    },
+    {
+      "path": "data.079",
+      "size": 1073741819,
+      "hash": "4274a344015166021e7f801aaa55c3fbc7ea9ad95ef967d8f783fdfdd1111ee4",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.079.zip"
+    },
+    {
+      "path": "data.080",
+      "size": 1073741804,
+      "hash": "d98833a83304acd0fb621f2166af7c14c6c4947bf4c66be5c96e1dad3aa61b92",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.080.zip"
+    },
+    {
+      "path": "data.081",
+      "size": 1073741823,
+      "hash": "0d7824d11f6d67b00c87fc3dc5f1d3df33ce264cb7ed7024b7090b0864ef2409",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.081.zip"
+    },
+    {
+      "path": "data.082",
+      "size": 1073741766,
+      "hash": "49095677e5bbc25cee7746727a16b890155e20768cd93da4ce105b20d79fc8ae",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.082.zip"
+    },
+    {
+      "path": "data.083",
+      "size": 1073741755,
+      "hash": "b2fae8b9819af5c9ca7ea6db57dea5cc6dab3ed1491e219b2ee4a957f9468da3",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.083.zip"
+    },
+    {
+      "path": "data.084",
+      "size": 1072540612,
+      "hash": "19b0230eedc43275484bd014a01d10033150e15f13004a759b03b5b6719cde19",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.084.zip"
+    },
+    {
+      "path": "data.085",
+      "size": 193314124,
+      "hash": "19ac2ccbeb9c3573da1c9ba9dea6a93241a5bec4cac32b963e9b9d71dcd41f81",
+      "url": "https://github.com/Fro-lov/EclipseLauncher/releases/download/client/data.085.zip"
+    }
+  ]
+}
