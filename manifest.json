@@ -1,5 +1,16 @@
 {
   "version": "1.0.0",
+  "realms":
+  [
+    {
+      "ip": "127.0.0.1",
+      "name": "Localhost"
+    },
+    {
+      "ip": "RU",
+      "name": "WOW Circle"
+    }
+  ]
   "files": [
     {
       "path": "data.000",
