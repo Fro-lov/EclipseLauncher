@@ -1,5 +1,11 @@
 {
   "version": "1.0.0",
+  "settings":
+  {
+    "choosenRealm": 1,
+    "customRealms": [],
+    "launcherAnimation": 1
+  },
   "realms":
   [
     {
